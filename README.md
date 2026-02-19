@@ -1,6 +1,7 @@
 # PixiJS Assignment
 
 A PixiJS v8 demo with three interactive scenes, built with TypeScript and Vite.
+[You can play it here](https://romarogov.github.io/pixijs-assignment/)
 
 ## Project Structure
 
