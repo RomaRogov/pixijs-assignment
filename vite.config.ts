@@ -37,6 +37,7 @@ function assetpackPlugin(): Plugin {
 }
 
 export default defineConfig({
+    base: '/pixijs-assignment/',
     plugins: [
         assetpackPlugin()
     ],
